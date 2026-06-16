@@ -5,7 +5,7 @@
 **Autores:** João Paulo Messias e Carlos André  
 
 ## 📌 Sobre o Projeto
-Este repositório contém o desenvolvimento de um programa de Física Computacional focado na modelagem de incidência solar e na análise de eficiência energética de painéis fotovoltaicos. 
+Este repositório contém o desenvolvimento de um programa de Física Computacional focado na modelagem de incidência solar e na análise de eficiência energética de painéis fotovoltaicos, além de simulações de erros/ruídos e a análise energética desses cenários.
 
 O objetivo do projeto é duplo:
 1. **Estabelecer um Modelo Ideal:** Utilizar equações astronômicas de geometria solar para calcular a irradiação solar em um plano inclinado específico na cidade de Goiânia, validando a física do sistema a partir de dados meteorológicos reais do INMET.
