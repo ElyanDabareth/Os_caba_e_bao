@@ -25,7 +25,7 @@ O trabalho foi dividido em fases de desenvolvimento para facilitar a manutençã
 ## 🛠️ Tecnologias Utilizadas
 * **Linguagem:** Python
 * **Bibliotecas Principais:** `numpy`, `pandas`, `matplotlib`
-* **Ambiente de Desenvolvimento:** Google Colab / Jupyter Notebooks
+* **Ambiente de Desenvolvimento:** Google Colab 
 
 ## 📖 Referência Principal
 A fundamentação matemática para a geometria solar foi baseada no trabalho:
